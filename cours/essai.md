@@ -1,4 +1,6 @@
 #### Rappels de 1ere NSI
+
+
 | Commande | Exemple d'utilisation | Explication |
 | :--- | :--- | :--- |
 | **`cat`** | `cat file.txt` | Affiche tout le contenu d'un fichier. |
