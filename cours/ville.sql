@@ -1,5 +1,5 @@
 -- Dans PostgresSQL, \i /tmp/table.sql pour exécuter 
--- Il faut préalablement copier le fichier /tmp/villesfrance.csv
+-- Il faut préalablement copier le fichier 
 --suppression de ville si présente
 DROP TABLE IF EXISTS ville;
 
