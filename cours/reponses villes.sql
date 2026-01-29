@@ -28,3 +28,8 @@ select count(distinct Nom)  from ville ;
 select count(distinct Dep) from ville ;
 15)
 select sum(Habitants) from ville ;
+16)
+select avg(Densite) from ville;
+17)
+select Nom, Densite from ville where Dep = '78' order by Densite limit 1;
+18)
